@@ -20,7 +20,7 @@ Strong judgment in messy zero to one work. Comfortable owning problem spaces wit
 </td>
 <td width="33%" valign="top">
 
-### 💻 Technical
+### 💻 Software Engineering
 **Super powered with AI coding agents**
 
 Solid CS fundamentals and systems thinking ability. I build fast using AI coding agent workflows while understanding of the depth allows me to move across frontend, backend, and architecture decisions.
