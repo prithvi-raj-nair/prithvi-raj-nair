@@ -1,4 +1,4 @@
-# Prithvi Raj Nair | Product Manager
+# Prithvi Raj Nair | Product Manager and Engineer
 
 **Building with AI | Bridging Product Thinking with a Passion for Emerging Tech | Ex PM@Meesho, Consultant@BCG, SWE@Microsoft**
 
