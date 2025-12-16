@@ -1,6 +1,6 @@
 # Prithvi Raj Nair | Product Manager
 
-**Building with AI | Ex PM@Meesho, Consultant@BCG, SWE@Microsoft | Bridging Product Thinking with a Passion for Emerging Tech**
+**Building with AI | Bridging Product Thinking with a Passion for Emerging Tech | Ex PM@Meesho, Consultant@BCG, SWE@Microsoft**
 
 I am a Product Manager with a track record of taking 0-to-1 products to PMF and scaling them in high-velocity, ambiguous environments. I launched and scaled Meesho's experimental fintech charter to ₹1Bn in disbursals. I am a hands-on builder with software development experience and a strong curiosity for emerging technologies and human-computer interaction. Currently exploring AI and agentic workflows through complex projects focused on next-generation user experiences using AI.
 
@@ -15,7 +15,7 @@ I am a Product Manager with a track record of taking 0-to-1 products to PMF and 
 ### 📦 Product Management
 **User-first and problem-first to the core**
 
-Strong judgment in messy zero to one work. Comfortable owning problem spaces with high ambiguity, complex dependencies, and technical depth. Proven ability to take products from exploration to PMF to scale.
+Strong judgment in messy zero to one work. Comfortable owning problem spaces with high ambiguity, complex dependencies, and technical depth. Proven ability to take products from experiment to PMF to scale.
 
 </td>
 <td width="33%" valign="top">
@@ -31,7 +31,7 @@ Solid CS fundamentals and systems thinking ability. I build fast using AI coding
 ### 🤖 AI Workflows
 **Experiment and develop effective workflows**
 
-Deep understanding of how LLMs and agentic systems fit into real workflows. I explore and design new usage patterns, build multi-phase agent workflows, and experiment across AI UX, context engineering, and tool design.
+Deep understanding of how LLMs and agentic systems fit into real workflows. I stay up to date with the cutting edge to experiment with and adopt new workflows for engineering and product.
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ Deep understanding of how LLMs and agentic systems fit into real workflows. I ex
 
 A reimagined approach to AI-assisted learning that breaks free from traditional linear chat interactions.
 
-🔗 [Repository](https://github.com/prithvi-raj-nair/dummy-learn-prototype) | [Live Demo](https://dummy-learn-prototype.vercel.app/)
+🔗 [Repository](https://github.com/prithvi-raj-nair/dummy-learn-prototype) | [Live Website](https://dummy-learn-prototype.vercel.app/)
 
 </td>
 <td width="40%" align="center">
@@ -68,7 +68,7 @@ A reimagined approach to AI-assisted learning that breaks free from traditional 
 
 Augmented reality solution for visualizing furniture and decor in real estate spaces.
 
-🔗 [Repository](https://github.com/Ar9av/xrcc-hackathon) | [Live Demo](https://decoratar.netlify.app/)
+🔗 [Repository](https://github.com/Ar9av/xrcc-hackathon) | [Live Website](https://decoratar.netlify.app/)
 
 </td>
 <td width="40%" align="center">
@@ -93,7 +93,7 @@ Augmented reality solution for visualizing furniture and decor in real estate sp
 
 ## 💬 Recommendations
 
-*All recommendations can be viewed on [LinkedIn](https://www.linkedin.com/in/prithvi-raj-nair/)*
+*All recommendations can be viewed on [Prithvi's LinkedIn](https://www.linkedin.com/in/prithvi-raj-nair/)*
 
 <table>
 <tr>
@@ -107,9 +107,3 @@ Augmented reality solution for visualizing furniture and decor in real estate sp
 </table>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prithvi-raj-nair/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
