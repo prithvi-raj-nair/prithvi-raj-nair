@@ -13,7 +13,7 @@ I am a Product Manager with a track record of taking 0-to-1 products to PMF and 
 <td width="33%" valign="top">
 
 ### 🌐 Product Management
-**User-first and problem-first to the core**
+**User and problem obsession**
 
 Strong judgment in messy zero to one work. Comfortable owning problem spaces with high ambiguity, complex dependencies, and technical depth. Proven ability to take products from experiment to PMF to scale.
 
