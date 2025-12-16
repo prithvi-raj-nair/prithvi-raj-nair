@@ -28,7 +28,7 @@ Solid CS fundamentals and systems thinking ability. I build fast using AI coding
 </td>
 <td width="33%" valign="top">
 
-### 🤖 AI Workflows
+### 🤖 AI for real Work
 **Experiment and develop effective workflows**
 
 Deep understanding of how LLMs and agentic systems fit into real workflows. I stay up to date with the cutting edge to experiment with and adopt new workflows for engineering and product.
