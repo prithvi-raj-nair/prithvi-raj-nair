@@ -63,7 +63,7 @@ A reimagined approach to AI-assisted learning that breaks free from traditional 
 <tr>
 <td width="60%" valign="top">
 
-### DecoratAR
+### DecoratAR for Meta Quest (and other AR headsets)
 **AR furnishing for real-estate demos** *(XRCC Hackathon)*
 
 Augmented reality solution for visualizing furniture and decor in real estate spaces.
