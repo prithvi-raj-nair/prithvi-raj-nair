@@ -12,15 +12,15 @@ I am a Product Manager with a track record of taking 0-to-1 products to PMF and 
 <tr>
 <td width="33%" valign="top">
 
-### 📦 Product Management
-**User-first and problem-first to the core**
+### 🌐 Product Management
+**User and problem obsession**
 
 Strong judgment in messy zero to one work. Comfortable owning problem spaces with high ambiguity, complex dependencies, and technical depth. Proven ability to take products from experiment to PMF to scale.
 
 </td>
 <td width="33%" valign="top">
 
-### 💻 Technical
+### 💻 Software Engineering
 **Super powered with AI coding agents**
 
 Solid CS fundamentals and systems thinking ability. I build fast using AI coding agent workflows while understanding of the depth allows me to move across frontend, backend, and architecture decisions.
@@ -28,7 +28,7 @@ Solid CS fundamentals and systems thinking ability. I build fast using AI coding
 </td>
 <td width="33%" valign="top">
 
-### 🤖 AI Workflows
+### 🤖 AI for real Work
 **Experiment and develop effective workflows**
 
 Deep understanding of how LLMs and agentic systems fit into real workflows. I stay up to date with the cutting edge to experiment with and adopt new workflows for engineering and product.
@@ -63,7 +63,7 @@ A reimagined approach to AI-assisted learning that breaks free from traditional 
 <tr>
 <td width="60%" valign="top">
 
-### DecoratAR
+### DecoratAR for Meta Quest (and other AR headsets)
 **AR furnishing for real-estate demos** *(XRCC Hackathon)*
 
 Augmented reality solution for visualizing furniture and decor in real estate spaces.
