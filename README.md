@@ -87,6 +87,7 @@ Augmented reality solution for visualizing furniture and decor in real estate sp
 | Topic | Description | Link |
 |-------|-------------|------|
 | **AI Agents** | Learn the basics of AI agents and develop a mental model to reason more effectively about building products with LLMs | [View Repo](https://github.com/prithvi-raj-nair/agent-basics) |
+| **LLM App MCP Visualiser** | Interactive web app that visualises how an LLM application works, including the Model Context Protocol (MCP) for tool integration | [View Repo](https://github.com/prithvi-raj-nair/agent-basics/blob/main/llm-app-mcp-visualisation/README.md) |
 | **Zustand & React Flow** | Learning project for Zustand and React Flow libraries. Learnings doc can be used in other projects for providing context to AI coding agents | [View Repo](https://github.com/prithvi-raj-nair/zustand-react-flow-learning-project) |
 
 ---
