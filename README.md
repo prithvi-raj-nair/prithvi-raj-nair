@@ -78,6 +78,24 @@ Augmented reality solution for visualizing furniture and decor in real estate sp
 
 </td>
 </tr>
+<tr>
+<td width="60%" valign="top">
+
+### ContosoVac Agent
+**Custom GPT agent for healthcare workers managing routine immunisation outreach**
+
+Explores how Custom GPTs can quickly build agents that perform small but impactful tasks for users in the field.
+
+🔗 [Repository](https://github.com/prithvi-raj-nair/contoso-vaccine-agent) | [Live Agent](https://chatgpt.com/g/g-696c93a58d188191b427ccc4531af12d-contosovac-agent) | [Full Presentation (PDF)](https://github.com/prithvi-raj-nair/contoso-vaccine-agent/blob/main/docs/ContosoVac%20Agent%20Presentation.pdf)
+
+</td>
+<td width="40%" align="center">
+
+[![ContosoVac Agent Demo](assets/1.%20immunisation%20explanation.jpg)](https://youtu.be/hiyg4dvjclo)
+▶️ *Click to watch demo*
+
+</td>
+</tr>
 </table>
 
 ---
